@@ -74,11 +74,12 @@ I'm a passionate **Computer Science** student at the **Universidad Nacional de C
 ## 🎨 Design & Productivity Tools
 
 ### 🖌️ Adobe Creative Suite
-[![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
-[![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=black)](https://www.adobe.com/products/illustrator.html)
-[![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)](https://www.adobe.com/products/premiere.html)
-[![InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)](https://www.adobe.com/products/indesign.html)
-
+<p align="left">
+<img src="https://img.shields.io/badge/Adobe_Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="Photoshop" />
+<img src="https://img.shields.io/badge/Adobe_Illustrator-330000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" alt="Illustrator" />
+<img src="https://img.shields.io/badge/Adobe_Premiere_Pro-00005C?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" alt="Premiere Pro" />
+<img src="https://img.shields.io/badge/Adobe_InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366" alt="InDesign" />
+</p>
 ### 📊 Office & Productivity
 [![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)](https://www.microsoft.com/microsoft-365/word)
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
