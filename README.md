@@ -36,7 +36,7 @@ I'm a passionate **Computer Science** student at the **Universidad Nacional de C
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esvalencia@unal.edu.co)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/esteban-valencia-gonzales-a04881344)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ESTEBAN60964331)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/estbxn.py/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/estban.valg/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/esvalenciag)
 [![Discord](https://img.shields.io/badge/Discord-Osiris8062-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/603680326929219609)
 
