@@ -65,10 +65,11 @@ I'm a passionate **Computer Science** student at the **Universidad Nacional de C
 [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)](https://www.apple.com/macos)
     
 ### 💻 Editors
+<p align="left">
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
+</p>
 
-<br>
 
 ## 🎨 Design & Productivity Tools
 
